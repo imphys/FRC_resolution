@@ -4,7 +4,7 @@ Measuring Image Resolution in Optical Nanoscopy
 
 ## FRCresolution software distribution
 
-This software is distributed as accompanying software for the article Measuring Image Resolution in Optical Nanoscopy by R.J.P. Nieuewenhuizen, K.A. Lidke, M. Bates, D. Leyton Puig, D. Grunwald, S. Stallinga, B. Rieger, Nature Methods, 2013 doi:10.1038/nmeth.2448.
+This software is distributed as accompanying software for the article [Measuring Image Resolution in Optical Nanoscopy](https://www.nature.com/articles/nmeth.2448) by R.J.P. Nieuewenhuizen, K.A. Lidke, M. Bates, D. Leyton Puig, D. Grunwald, S. Stallinga, B. Rieger, Nature Methods, 2013 doi:10.1038/nmeth.2448.
 This distribution contains MATLAB software and an ImageJ plugin to run (part of) the algorithms described in the article. 
 The MATLAB software is more extensive than the ImageJ plugin.
 
@@ -46,9 +46,9 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details,
 see www.gnu.org.
 
-Quantitative Imaging Group
-Faculty of Applied Sciences
-Delft University of Technology
-Lorentzweg 1, 2628 CJ Delft
-The Netherlands
+Quantitative Imaging Group  
+Faculty of Applied Sciences  
+Delft University of Technology  
+Lorentzweg 1, 2628 CJ Delft  
+The Netherlands  
 contact: Bernd Rieger, b.rieger@tudelft.nl
